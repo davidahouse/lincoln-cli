@@ -1,9 +1,8 @@
-## lincoln-api
+## lincoln-cli
 
 ## 0.2.0
 
-- Added support for more containers in the pathFor method
-- Added unit tests
+- Updated to support lincoln-api 0.5.0
 
 ## 0.1.0
 
